@@ -1,4 +1,4 @@
-# quantitative-explorations
+# Quantitative-Explorations
 
 Applied Math → Data Insight Series
 
